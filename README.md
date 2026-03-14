@@ -26,7 +26,7 @@ On the side I build stuff on **FiveM** in **Lua** — frameworks and scripts fro
 
 <div align="center">
 
-#### ☠️ OFFENSIVE SECURITY
+####  OFFENSIVE SECURITY
 
 ![Active Directory](https://img.shields.io/badge/Active_Directory-E03C31?style=for-the-badge&logo=windows&logoColor=white)
 ![C2 Development](https://img.shields.io/badge/C2_Development-E03C31?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -47,7 +47,7 @@ On the side I build stuff on **FiveM** in **Lua** — frameworks and scripts fro
 
 <br>
 
-#### ⚡ DEV STACK
+####  DEV STACK
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
