@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:E03C31&height=220&section=header&text=LEX&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Offensive%20Security&descSize=18&descAlignY=55&descColor=cccccc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:E03C31&height=220&section=header&text=LEX&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FiveM%20Developer%20%7C%20Full-Stack&descSize=18&descAlignY=55&descColor=cccccc"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E03C31&center=true&vCenter=true&random=false&width=620&lines=Full-Stack+Developer;Offensive+Security+Enthusiast;Building+Modern+Web+Apps;From+Frontend+to+Backend+to+Infra;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E03C31&center=true&vCenter=true&random=false&width=620&lines=FiveM+Developer;Full-Stack+Developer;Custom+Frameworks+%26+Scripts;Lua+%7C+JavaScript+%7C+TypeScript;Building+Unique+RP+Experiences" alt="Typing SVG" /></a>
 
 <br>
 
@@ -15,25 +15,37 @@
 
 ### `$ whoami`
 
-**Lex** — Développeur Full-Stack passionné et autodidacte. Je conçois et développe des applications web complètes, du design au déploiement.
+**Lex** — Développeur FiveM et Full-Stack passionné. Je crée des **frameworks**, **scripts** et **systèmes complets** pour FiveM, entièrement from scratch. Pas de copier-coller, que du custom.
 
-En parallèle, je touche à l'**offensive security** (pentest, red team, adversary simulation) et je build des trucs sur **FiveM** en Lua pour le fun.
+En parallèle, je développe des applications web complètes et je touche à l'**offensive security**.
 
 ---
 
-### `$ cat /stack/frontend`
+### `$ cat /fivem/stack`
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
+
+### `$ cat /fivem/expertise`
+
+<div align="center">
+
+`Custom Frameworks` | `UI/NUI Development` | `Inventory Systems` | `Job Systems` | `Admin Panels`
+`Phone Systems` | `Housing Scripts` | `Vehicle Systems` | `Economy & Banking` | `Optimized Scripts`
+
+</div>
+
+---
 
 ### `$ cat /stack/backend`
 
@@ -45,7 +57,6 @@ En parallèle, je touche à l'**offensive security** (pentest, red team, adversa
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 </div>
 
@@ -60,7 +71,7 @@ En parallèle, je touche à l'**offensive security** (pentest, red team, adversa
 
 </div>
 
-### `$ cat /stack/devops`
+### `$ cat /stack/tools`
 
 <div align="center">
 
@@ -68,37 +79,6 @@ En parallèle, je touche à l'**offensive security** (pentest, red team, adversa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
----
-
-### `$ cat /etc/security`
-
-<div align="center">
-
-Je m'intéresse aussi activement à la **cybersécurité offensive** :
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-`Active Directory` | `C2 Development` | `EDR Evasion` | `Exploit Dev` | `Red Team Ops`
-
-</div>
-
----
-
-### `$ cat /var/log/stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LexOfficiel&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E03C31&icon_color=E03C31&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LexOfficiel&theme=radical&hide_border=true&background=0d1117&ring=E03C31&fire=E03C31&currStreakLabel=E03C31" height="170"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexOfficiel&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E03C31&text_color=c9d1d9&langs_count=8" height="170"/>
 
 </div>
 
